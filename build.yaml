@@ -1,0 +1,10 @@
+targets:
+  $default:
+    builders:
+      fast_i18n:
+        options:
+          input_directory: assets/i18n
+          output_directory: lib/i18n
+          string_interpolation: braces
+          maps:
+            - DAY

@@ -1,0 +1,44 @@
+{
+  "APP_NAME": "Radio",
+  "BUTTON": {
+    "CLOSE_APP": "Close the app",
+    "CONFIRM": "Confirm",
+    "CANCEL": "Cancel",
+    "CLOSE": "Close",
+    "PLAT_PODCAST": "Reproducir",
+    "MORE_INFO": "Mas info",
+    "SHARE": "Compartir",
+    "SeeComplete": "Ver completa",
+    "RETURN": "Volver",
+    "DownLoad": "Descargar"
+  },
+  "TITLE": {
+    "Player_podcast": "Reproductor Podcast"
+  },
+  "HINT": {
+    "SHARE_PODCAST": "Podcast compartido:"
+  },
+  "BOTTOM_NAVBAR": {
+    "NEWS": "Noticias",
+    "PODCAST": "Podcasts"
+  },
+  "LABEL": {
+    "CHANNEL": "Channel",
+    "PUBDATE": "Publicado",
+    "DURATION": "Duración"
+  },
+  "ERRR_MESSAGES": {
+    "OFFLINE": {
+      "TITLE": "Your's device is offline",
+      "SUB_TITLE": "Please try to connect with internet to enjoy the stream from {appname}"
+    },
+    "APP_DISABLE": {
+      "TITLE": "App is disable, please contact with station",
+      "SUBTITLE": ""
+    }
+  },
+  "MESSAGES": {
+    "APP_CLOSE": "Confirm you want to close the app. The playback will be stopped",
+    "AUTO_OFF": "Playback will stop at:"
+  }
+}
